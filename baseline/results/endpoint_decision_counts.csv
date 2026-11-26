@@ -1,0 +1,11 @@
+split,model,margin,n,recommended,confirmed_pass,confirmed_fail,unreadable,abstain,borderline,avg_min_saved_verified_pass,false_events
+event,c0_only,0,30,17,16,1,0,13,0,0.0000000,E24
+event,catalyst,0,30,17,16,1,0,13,0,0.0000000,E24
+event,condition_k,0,30,15,14,1,0,15,0,0.0000000,E24
+event,forest,0,30,18,16,2,0,12,0,0.0000000,E6 E24
+event,pooled,0,30,17,16,1,0,13,0,0.0000000,E24
+nominal_recipe,c0_only,0,30,17,16,1,0,13,0,0.0000000,E24
+nominal_recipe,catalyst,0,30,17,16,1,0,13,0,0.0000000,E24
+nominal_recipe,condition_k,0,30,15,14,1,0,15,0,0.0000000,E24
+nominal_recipe,forest,0,30,18,16,2,0,12,0,0.0000000,E6 E24
+nominal_recipe,pooled,0,30,17,16,1,0,13,0,0.0000000,E24

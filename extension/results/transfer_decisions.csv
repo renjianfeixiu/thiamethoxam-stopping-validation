@@ -1,0 +1,127 @@
+source,panel,curve,relative_target,rule,buffer_ratio,stop,reference_ratio,reason,outcome,horizon,clock,assay_only_clock
+Arfanis Fig1a,M1a,P25 1 ppm,0.30000000,none,0.00000000,,,missing_anchor,missing_anchor,90,90,90
+Arfanis Fig1a,M1a,P25 1 ppm,0.30000000,S8_frozen,0.09300337,,,missing_anchor,missing_anchor,90,90,90
+Arfanis Fig1a,M1a,P25 1 ppm,0.50000000,none,0.00000000,,,missing_anchor,missing_anchor,90,90,90
+Arfanis Fig1a,M1a,P25 1 ppm,0.50000000,S8_frozen,0.09300337,,,missing_anchor,missing_anchor,90,90,90
+Arfanis Fig1a,M1a,P25 1 ppm,0.70000000,none,0.00000000,,,missing_anchor,missing_anchor,90,90,90
+Arfanis Fig1a,M1a,P25 1 ppm,0.70000000,S8_frozen,0.09300337,,,missing_anchor,missing_anchor,90,90,90
+Arfanis Fig1a,M1a,P25 10 ppm,0.30000000,none,0.00000000,60.00000000,0.06952000,direct,pass,90,60,60
+Arfanis Fig1a,M1a,P25 10 ppm,0.30000000,S8_frozen,0.09300337,60.00000000,0.06952000,direct,pass,90,60,60
+Arfanis Fig1a,M1a,P25 10 ppm,0.50000000,none,0.00000000,60.00000000,0.06952000,direct,pass,90,60,60
+Arfanis Fig1a,M1a,P25 10 ppm,0.50000000,S8_frozen,0.09300337,60.00000000,0.06952000,direct,pass,90,60,60
+Arfanis Fig1a,M1a,P25 10 ppm,0.70000000,none,0.00000000,60.00000000,0.06952000,direct,pass,90,60,60
+Arfanis Fig1a,M1a,P25 10 ppm,0.70000000,S8_frozen,0.09300337,60.00000000,0.06952000,direct,pass,90,60,60
+Arfanis Fig1a,M1a,P25 20 ppm,0.30000000,none,0.00000000,60.00000000,0.09333000,direct,pass,90,60,60
+Arfanis Fig1a,M1a,P25 20 ppm,0.30000000,S8_frozen,0.09300337,60.00000000,0.09333000,direct,pass,90,60,60
+Arfanis Fig1a,M1a,P25 20 ppm,0.50000000,none,0.00000000,60.00000000,0.09333000,direct,pass,90,60,60
+Arfanis Fig1a,M1a,P25 20 ppm,0.50000000,S8_frozen,0.09300337,60.00000000,0.09333000,direct,pass,90,60,60
+Arfanis Fig1a,M1a,P25 20 ppm,0.70000000,none,0.00000000,60.00000000,0.09333000,direct,pass,90,60,60
+Arfanis Fig1a,M1a,P25 20 ppm,0.70000000,S8_frozen,0.09300337,60.00000000,0.09333000,direct,pass,90,60,60
+Arfanis Fig1a,M1a,P25 5 ppm,0.30000000,none,0.00000000,,,missing_anchor,missing_anchor,90,90,90
+Arfanis Fig1a,M1a,P25 5 ppm,0.30000000,S8_frozen,0.09300337,,,missing_anchor,missing_anchor,90,90,90
+Arfanis Fig1a,M1a,P25 5 ppm,0.50000000,none,0.00000000,,,missing_anchor,missing_anchor,90,90,90
+Arfanis Fig1a,M1a,P25 5 ppm,0.50000000,S8_frozen,0.09300337,,,missing_anchor,missing_anchor,90,90,90
+Arfanis Fig1a,M1a,P25 5 ppm,0.70000000,none,0.00000000,,,missing_anchor,missing_anchor,90,90,90
+Arfanis Fig1a,M1a,P25 5 ppm,0.70000000,S8_frozen,0.09300337,,,missing_anchor,missing_anchor,90,90,90
+Farooq Fig7b,F7b,Ni-PbS,0.30000000,none,0.00000000,,,abstain,abstain,180,180,180
+Farooq Fig7b,F7b,Ni-PbS,0.30000000,S8_frozen,0.09300337,,,abstain,abstain,180,180,180
+Farooq Fig7b,F7b,Ni-PbS,0.50000000,none,0.00000000,150.00000000,0.39789000,forecast,pass,180,150,180
+Farooq Fig7b,F7b,Ni-PbS,0.50000000,S8_frozen,0.09300337,,,abstain,abstain,180,180,180
+Farooq Fig7b,F7b,Ni-PbS,0.70000000,none,0.00000000,90.00000000,0.61900000,forecast,pass,180,90,180
+Farooq Fig7b,F7b,Ni-PbS,0.70000000,S8_frozen,0.09300337,120.00000000,0.50946000,forecast,pass,180,120,180
+Farooq Fig7b,F7b,PbS,0.30000000,none,0.00000000,,,abstain,abstain,180,180,180
+Farooq Fig7b,F7b,PbS,0.30000000,S8_frozen,0.09300337,,,abstain,abstain,180,180,180
+Farooq Fig7b,F7b,PbS,0.50000000,none,0.00000000,,,abstain,abstain,180,180,180
+Farooq Fig7b,F7b,PbS,0.50000000,S8_frozen,0.09300337,,,abstain,abstain,180,180,180
+Farooq Fig7b,F7b,PbS,0.70000000,none,0.00000000,120.00000000,0.64984000,forecast,pass,180,120,180
+Farooq Fig7b,F7b,PbS,0.70000000,S8_frozen,0.09300337,180.00000000,0.49951000,forecast,pass,180,180,180
+Farooq blank,F7b,no catalyst,0.30000000,none,0.00000000,,,abstain,abstain,180,180,180
+Farooq blank,F7b,no catalyst,0.30000000,S8_frozen,0.09300337,,,abstain,abstain,180,180,180
+Farooq blank,F7b,no catalyst,0.50000000,none,0.00000000,,,abstain,abstain,180,180,180
+Farooq blank,F7b,no catalyst,0.50000000,S8_frozen,0.09300337,,,abstain,abstain,180,180,180
+Farooq blank,F7b,no catalyst,0.70000000,none,0.00000000,,,abstain,abstain,180,180,180
+Farooq blank,F7b,no catalyst,0.70000000,S8_frozen,0.09300337,,,abstain,abstain,180,180,180
+Reactor Fig5-6,R5,TiO2 system 1,0.30000000,none,0.00000000,120.00000000,0.21827000,forecast,pass,180,120,180
+Reactor Fig5-6,R5,TiO2 system 1,0.30000000,S8_frozen,0.09300337,150.00000000,0.16751000,forecast,pass,180,150,180
+Reactor Fig5-6,R5,TiO2 system 1,0.50000000,none,0.00000000,90.00000000,0.29442000,forecast,pass,180,90,180
+Reactor Fig5-6,R5,TiO2 system 1,0.50000000,S8_frozen,0.09300337,90.00000000,0.29442000,forecast,pass,180,90,180
+Reactor Fig5-6,R5,TiO2 system 1,0.70000000,none,0.00000000,60.00000000,0.50254000,direct,pass,180,60,60
+Reactor Fig5-6,R5,TiO2 system 1,0.70000000,S8_frozen,0.09300337,60.00000000,0.50254000,direct,pass,180,60,60
+Reactor Fig5-6,R5,TiO2 system 2,0.30000000,none,0.00000000,180.00000000,0.40807000,forecast,fail,180,180,180
+Reactor Fig5-6,R5,TiO2 system 2,0.30000000,S8_frozen,0.09300337,,,abstain,abstain,180,180,180
+Reactor Fig5-6,R5,TiO2 system 2,0.50000000,none,0.00000000,120.00000000,0.44843000,forecast,pass,180,120,180
+Reactor Fig5-6,R5,TiO2 system 2,0.50000000,S8_frozen,0.09300337,150.00000000,0.36771000,forecast,pass,180,150,180
+Reactor Fig5-6,R5,TiO2 system 2,0.70000000,none,0.00000000,60.00000000,0.65471000,direct,pass,180,60,60
+Reactor Fig5-6,R5,TiO2 system 2,0.70000000,S8_frozen,0.09300337,60.00000000,0.65471000,direct,pass,180,60,60
+Reactor Fig5-6,R6,PST system 1,0.30000000,none,0.00000000,150.00000000,0.31081000,forecast,fail,180,150,180
+Reactor Fig5-6,R6,PST system 1,0.30000000,S8_frozen,0.09300337,180.00000000,0.29730000,forecast,pass,180,180,180
+Reactor Fig5-6,R6,PST system 1,0.50000000,none,0.00000000,90.00000000,0.50450000,forecast,fail,180,90,180
+Reactor Fig5-6,R6,PST system 1,0.50000000,S8_frozen,0.09300337,120.00000000,0.40541000,forecast,pass,180,120,180
+Reactor Fig5-6,R6,PST system 1,0.70000000,none,0.00000000,60.00000000,0.56757000,direct,pass,180,60,60
+Reactor Fig5-6,R6,PST system 1,0.70000000,S8_frozen,0.09300337,60.00000000,0.56757000,direct,pass,180,60,60
+Reactor Fig5-6,R6,PST system 2,0.30000000,none,0.00000000,,,abstain,abstain,180,180,180
+Reactor Fig5-6,R6,PST system 2,0.30000000,S8_frozen,0.09300337,,,abstain,abstain,180,180,180
+Reactor Fig5-6,R6,PST system 2,0.50000000,none,0.00000000,,,abstain,abstain,180,180,180
+Reactor Fig5-6,R6,PST system 2,0.50000000,S8_frozen,0.09300337,,,abstain,abstain,180,180,180
+Reactor Fig5-6,R6,PST system 2,0.70000000,none,0.00000000,150.00000000,0.71774000,forecast,fail,180,150,180
+Reactor Fig5-6,R6,PST system 2,0.70000000,S8_frozen,0.09300337,180.00000000,0.66532000,forecast,pass,180,180,180
+Xie Fig6,6f,CN 10 mg/L,0.30000000,none,0.00000000,,,abstain,abstain,180,180,180
+Xie Fig6,6f,CN 10 mg/L,0.30000000,S8_frozen,0.09300337,,,abstain,abstain,180,180,180
+Xie Fig6,6f,CN 10 mg/L,0.50000000,none,0.00000000,,,abstain,abstain,180,180,180
+Xie Fig6,6f,CN 10 mg/L,0.50000000,S8_frozen,0.09300337,,,abstain,abstain,180,180,180
+Xie Fig6,6f,CN 10 mg/L,0.70000000,none,0.00000000,120.00000000,0.65031000,forecast,pass,180,120,180
+Xie Fig6,6f,CN 10 mg/L,0.70000000,S8_frozen,0.09300337,180.00000000,0.52163000,forecast,pass,180,180,180
+Xie Fig6,6f,CN 20 mg/L,0.30000000,none,0.00000000,,,abstain,abstain,180,180,180
+Xie Fig6,6f,CN 20 mg/L,0.30000000,S8_frozen,0.09300337,,,abstain,abstain,180,180,180
+Xie Fig6,6f,CN 20 mg/L,0.50000000,none,0.00000000,,,abstain,abstain,180,180,180
+Xie Fig6,6f,CN 20 mg/L,0.50000000,S8_frozen,0.09300337,,,abstain,abstain,180,180,180
+Xie Fig6,6f,CN 20 mg/L,0.70000000,none,0.00000000,150.00000000,0.73773000,forecast,fail,180,150,180
+Xie Fig6,6f,CN 20 mg/L,0.70000000,S8_frozen,0.09300337,,,abstain,abstain,180,180,180
+Xie Fig6,6f,CN 5 mg/L,0.30000000,none,0.00000000,,,abstain,abstain,180,180,180
+Xie Fig6,6f,CN 5 mg/L,0.30000000,S8_frozen,0.09300337,,,abstain,abstain,180,180,180
+Xie Fig6,6f,CN 5 mg/L,0.50000000,none,0.00000000,120.00000000,0.49080000,forecast,pass,180,120,180
+Xie Fig6,6f,CN 5 mg/L,0.50000000,S8_frozen,0.09300337,150.00000000,0.41871000,forecast,pass,180,150,180
+Xie Fig6,6f,CN 5 mg/L,0.70000000,none,0.00000000,60.00000000,0.68252000,direct,pass,180,60,60
+Xie Fig6,6f,CN 5 mg/L,0.70000000,S8_frozen,0.09300337,60.00000000,0.68252000,direct,pass,180,60,60
+Xie Fig6,6f,CN 50 mg/L,0.30000000,none,0.00000000,,,abstain,abstain,180,180,180
+Xie Fig6,6f,CN 50 mg/L,0.30000000,S8_frozen,0.09300337,,,abstain,abstain,180,180,180
+Xie Fig6,6f,CN 50 mg/L,0.50000000,none,0.00000000,,,abstain,abstain,180,180,180
+Xie Fig6,6f,CN 50 mg/L,0.50000000,S8_frozen,0.09300337,,,abstain,abstain,180,180,180
+Xie Fig6,6f,CN 50 mg/L,0.70000000,none,0.00000000,,,abstain,abstain,180,180,180
+Xie Fig6,6f,CN 50 mg/L,0.70000000,S8_frozen,0.09300337,,,abstain,abstain,180,180,180
+Xie Fig6,6g,CN/Bi2O3 10 mg/L,0.30000000,none,0.00000000,150.00000000,0.22766000,forecast,pass,180,150,180
+Xie Fig6,6g,CN/Bi2O3 10 mg/L,0.30000000,S8_frozen,0.09300337,180.00000000,0.17477000,forecast,pass,180,180,180
+Xie Fig6,6g,CN/Bi2O3 10 mg/L,0.50000000,none,0.00000000,90.00000000,0.44073000,forecast,pass,180,90,180
+Xie Fig6,6g,CN/Bi2O3 10 mg/L,0.50000000,S8_frozen,0.09300337,120.00000000,0.32827000,forecast,pass,180,120,180
+Xie Fig6,6g,CN/Bi2O3 10 mg/L,0.70000000,none,0.00000000,60.00000000,0.55410000,direct,pass,180,60,60
+Xie Fig6,6g,CN/Bi2O3 10 mg/L,0.70000000,S8_frozen,0.09300337,60.00000000,0.55410000,direct,pass,180,60,60
+Xie Fig6,6g,CN/Bi2O3 20 mg/L,0.30000000,none,0.00000000,,,abstain,abstain,180,180,180
+Xie Fig6,6g,CN/Bi2O3 20 mg/L,0.30000000,S8_frozen,0.09300337,,,abstain,abstain,180,180,180
+Xie Fig6,6g,CN/Bi2O3 20 mg/L,0.50000000,none,0.00000000,150.00000000,0.39362000,forecast,pass,180,150,180
+Xie Fig6,6g,CN/Bi2O3 20 mg/L,0.50000000,S8_frozen,0.09300337,180.00000000,0.32371000,forecast,pass,180,180,180
+Xie Fig6,6g,CN/Bi2O3 20 mg/L,0.70000000,none,0.00000000,90.00000000,0.57903000,forecast,pass,180,90,180
+Xie Fig6,6g,CN/Bi2O3 20 mg/L,0.70000000,S8_frozen,0.09300337,90.00000000,0.57903000,forecast,pass,180,90,180
+Xie Fig6,6g,CN/Bi2O3 5 mg/L,0.30000000,none,0.00000000,150.00000000,0.20912000,forecast,pass,180,150,180
+Xie Fig6,6g,CN/Bi2O3 5 mg/L,0.30000000,S8_frozen,0.09300337,180.00000000,0.15350000,forecast,pass,180,180,180
+Xie Fig6,6g,CN/Bi2O3 5 mg/L,0.50000000,none,0.00000000,90.00000000,0.41216000,forecast,pass,180,90,180
+Xie Fig6,6g,CN/Bi2O3 5 mg/L,0.50000000,S8_frozen,0.09300337,120.00000000,0.29939000,forecast,pass,180,120,180
+Xie Fig6,6g,CN/Bi2O3 5 mg/L,0.70000000,none,0.00000000,60.00000000,0.57447000,direct,pass,180,60,60
+Xie Fig6,6g,CN/Bi2O3 5 mg/L,0.70000000,S8_frozen,0.09300337,60.00000000,0.57447000,direct,pass,180,60,60
+Xie Fig6,6g,CN/Bi2O3 50 mg/L,0.30000000,none,0.00000000,,,abstain,abstain,180,180,180
+Xie Fig6,6g,CN/Bi2O3 50 mg/L,0.30000000,S8_frozen,0.09300337,,,abstain,abstain,180,180,180
+Xie Fig6,6g,CN/Bi2O3 50 mg/L,0.50000000,none,0.00000000,,,abstain,abstain,180,180,180
+Xie Fig6,6g,CN/Bi2O3 50 mg/L,0.50000000,S8_frozen,0.09300337,,,abstain,abstain,180,180,180
+Xie Fig6,6g,CN/Bi2O3 50 mg/L,0.70000000,none,0.00000000,150.00000000,0.66565000,forecast,pass,180,150,180
+Xie Fig6,6g,CN/Bi2O3 50 mg/L,0.70000000,S8_frozen,0.09300337,180.00000000,0.63070000,forecast,pass,180,180,180
+Xie FigS6,s6,secondary effluent,0.30000000,none,0.00000000,,,abstain,abstain,180,180,180
+Xie FigS6,s6,secondary effluent,0.30000000,S8_frozen,0.09300337,,,abstain,abstain,180,180,180
+Xie FigS6,s6,secondary effluent,0.50000000,none,0.00000000,120.00000000,0.50613000,forecast,fail,180,120,180
+Xie FigS6,s6,secondary effluent,0.50000000,S8_frozen,0.09300337,180.00000000,0.34914000,forecast,pass,180,180,180
+Xie FigS6,s6,secondary effluent,0.70000000,none,0.00000000,90.00000000,0.59714000,forecast,pass,180,90,180
+Xie FigS6,s6,secondary effluent,0.70000000,S8_frozen,0.09300337,90.00000000,0.59714000,forecast,pass,180,90,180
+Xie FigS6,s6,tap water,0.30000000,none,0.00000000,,,abstain,abstain,180,180,180
+Xie FigS6,s6,tap water,0.30000000,S8_frozen,0.09300337,,,abstain,abstain,180,180,180
+Xie FigS6,s6,tap water,0.50000000,none,0.00000000,120.00000000,0.47081000,forecast,pass,180,120,180
+Xie FigS6,s6,tap water,0.50000000,S8_frozen,0.09300337,150.00000000,0.38942000,forecast,pass,180,150,180
+Xie FigS6,s6,tap water,0.70000000,none,0.00000000,60.00000000,0.68068000,direct,pass,180,60,60
+Xie FigS6,s6,tap water,0.70000000,S8_frozen,0.09300337,60.00000000,0.68068000,direct,pass,180,60,60

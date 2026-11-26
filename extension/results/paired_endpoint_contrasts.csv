@@ -1,0 +1,5 @@
+first,second,paired_n,second_lower,mean_reduction_mg_L,descriptive_bootstrap_low,descriptive_bootstrap_high
+exp_30,exp_60,29,23,0.33252541,-0.02600548,0.70729598
+exp_60,exp_90,29,21,0.20923155,0.05873907,0.39589841
+exp_60,two_origin_60,29,9,-0.02576368,-0.08476486,0.03740015
+exp_60,two_recent_60,29,18,0.00192779,-0.30463583,0.29624062

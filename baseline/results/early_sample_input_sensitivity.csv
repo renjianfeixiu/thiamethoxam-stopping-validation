@@ -1,0 +1,10 @@
+split,model,margin,n,recommended,confirmed_pass,confirmed_fail,unreadable,abstain,borderline,avg_min_saved_verified_pass,false_events,shift_input_ratio
+event,early_kinetics,0.0000000,30,17,14,3,0,13,2,98.5714286,E1 E11 E24,-0.0100000
+event,early_kinetics,0.2500000,30,15,15,0,0,15,0,86.0000000,,-0.0100000
+event,early_kinetics,0.5000000,30,14,13,0,1,16,0,76.1538462,,-0.0100000
+event,early_kinetics,0.0000000,30,16,16,0,0,14,1,86.2500000,,0.0000000
+event,early_kinetics,0.2500000,30,14,14,0,0,16,0,85.7142857,,0.0000000
+event,early_kinetics,0.5000000,30,12,11,0,1,18,0,87.2727273,,0.0000000
+event,early_kinetics,0.0000000,30,16,16,0,0,14,0,82.5000000,,0.0100000
+event,early_kinetics,0.2500000,30,14,13,0,1,16,0,80.7692308,,0.0100000
+event,early_kinetics,0.5000000,30,11,10,0,1,19,0,93.0000000,,0.0100000

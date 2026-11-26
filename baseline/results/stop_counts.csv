@@ -1,0 +1,16 @@
+split,model,margin,n,recommended,confirmed_pass,confirmed_fail,unreadable,abstain,borderline,avg_min_saved_verified_pass,false_events
+event,c0_only,0.0000000,30,17,11,6,0,13,2,79.0909091,E1 E3 E11 E12 E15 E24
+event,c0_only,0.2500000,30,17,13,4,0,13,1,62.3076923,E1 E11 E15 E24
+event,c0_only,0.5000000,30,17,11,4,2,13,0,40.9090909,E1 E11 E15 E24
+event,catalyst,0.0000000,30,17,13,4,0,13,1,66.9230769,E1 E11 E15 E24
+event,catalyst,0.2500000,30,17,12,4,1,13,0,45.0000000,E1 E11 E15 E24
+event,catalyst,0.5000000,30,17,12,4,1,13,0,17.5000000,E1 E11 E15 E24
+event,condition_k,0.0000000,30,15,11,4,0,15,1,95.4545455,E11 E12 E15 E24
+event,condition_k,0.2500000,30,15,13,2,0,15,1,85.3846154,E11 E24
+event,condition_k,0.5000000,30,15,14,1,0,15,0,55.7142857,E24
+event,forest,0.0000000,30,17,11,6,0,13,2,100.9090909,E1 E6 E11 E12 E15 E24
+event,forest,0.2500000,30,15,11,4,0,15,1,87.2727273,E11 E12 E15 E24
+event,forest,0.5000000,30,14,10,4,0,16,0,69.0000000,E11 E12 E15 E24
+event,pooled,0.0000000,30,17,12,5,0,13,1,57.5000000,E1 E11 E12 E15 E24
+event,pooled,0.2500000,30,17,11,4,2,13,1,40.9090909,E1 E11 E15 E24
+event,pooled,0.5000000,30,17,14,3,0,13,0,15.0000000,E1 E11 E24

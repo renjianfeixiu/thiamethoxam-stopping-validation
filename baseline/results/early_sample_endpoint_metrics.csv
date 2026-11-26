@@ -1,0 +1,5 @@
+split,model,n_events,n_read,mae_ct,rmse_ct,r2_ct,mae_ratio,r2_ratio
+event,early_kinetics,32,32,0.5394631,1.0751507,0.9931398,0.0367785,0.9655805
+event,early_linear,32,32,1.1852982,1.6218709,0.9843889,0.1361906,0.5375871
+event,observed60_anchor_prior_k,32,32,0.6703651,1.0006843,0.9940572,0.0712936,0.8585655
+event,observed60_then_prior,32,32,0.8803723,1.1542517,0.9920932,0.1058091,0.6995467

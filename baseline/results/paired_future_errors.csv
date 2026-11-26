@@ -1,0 +1,7 @@
+population,compared_to,n_events,n_lower,n_equal,mean_mae_reduction,bootstrap_q025,bootstrap_q975
+all_32,observed60_then_prior,32,27,0,0.3604046,0.1245344,0.5823853
+all_32,observed60_anchor_prior_k,32,21,0,0.1047702,-0.0369952,0.2372703
+all_32,early_linear,32,31,0,0.3671442,0.2682459,0.4682672
+still_above_at_60_n22,observed60_then_prior,22,19,0,0.3295581,0.0067815,0.6341478
+still_above_at_60_n22,observed60_anchor_prior_k,22,13,0,0.0769258,-0.1192572,0.2621061
+still_above_at_60_n22,early_linear,22,21,0,0.2534800,0.1543410,0.3622442
