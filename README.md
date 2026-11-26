@@ -22,6 +22,16 @@ The first script refits the models, replays the schedules, recalculates sensitiv
 | Does assay timing or kinetic form matter? | `extension/results/timing_metrics.csv`, `extension/results/timing_counts.csv`, `extension/results/transfer_metrics.csv` |
 | Does the rule transfer without fitting? | `external/data/curves.csv`, `external/results/decisions.csv`, `external/results/summary.csv` |
 
+## Re-extracting the external observations from the publisher figures
+
+The full replay above uses the numerical inputs in the repository. To redigitize those two source figures, obtain the original files named in `external/README.md`. The extraction program checks each input's SHA-256. For byte-identical recovery of `external/data/curves.csv`, the verified extraction environment used CPython 3.13.5, NumPy 2.4.6, Pillow 12.2.0 and libjpeg-turbo 3.1.4.1. These versions are for the optional image extraction only.
+
+```sh
+python external/extract.py /path/to/source/images --output extracted.csv
+```
+
+The reference CSV has SHA-256 `4843153306fe135c1a51c455ae7336468837aeb68382d9daf8965f1844f3a5e5`. Pillow 12.0.0 linked to IJG JPEG 9 gave small differences in some Chen pixel readings. Across all 210 external replay scenarios, the alternate decoding changed no proposed times or classifications. The largest difference in reference concentration at a scheduled time was 0.005422 mg/L. The Farooq readings were identical. Use a separate environment for image extraction if exact numeric recovery from the JPEG is needed.
+
 ## Independent sources and unit of analysis
 
 The 32 development batches come from [Xie et al., Table S1 and Fig. S8](https://doi.org/10.1016/j.cej.2024.156029). In the external threshold analysis, the decision uses only the nominal initial concentration and the 60 min reading. The later observations serve as references. The seven external observations are seven condition curves from two publications, with shared conditions within each panel. They do not represent seven independent labs or seven sets of instrument replicates.
